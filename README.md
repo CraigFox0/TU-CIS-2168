@@ -12,3 +12,12 @@ Identify Big O for a number of codes
 
 ## Week 4: Solitaire Encryption
 Build an encryption program based on Cryptonomicon
+
+## Week 5: Maze Solving
+Solve a maze using a stack
+
+## Week 6: Recursion
+Recursively solve the 8 Queens problem and a Sudoku board 
+
+## Week 7: Index Tree
+Build a binary tree of words from Shakespeare's texts
