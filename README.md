@@ -22,5 +22,8 @@ Recursively solve the 8 Queens problem and a Sudoku board
 ## Week 7: Index Tree
 Build a binary tree of words from Shakespeare's texts
 
-## Week 7: Cheater's Hangman
+## Week 8: Cheater's Hangman
 Make a hangman game where the computer cheats without detection
+
+## Week 9: Sorting Performance
+Run three different sorting algorithms on various data sizes to see how they perform
